@@ -1,0 +1,16 @@
+body{
+ background-image: url("https://3.bp.blogspot.com/-Z3iV7a3tZn4/VwQKDnLzohI/AAAAAAAANAI/49NGZ7oV0y0DtBmlZ_FkMAOGtC6l8l_DQ/s1600/Sivir_Splash_5.jpg");
+}
+#Header{
+ color: #b30000;
+}
+button{
+ color: white;
+ background-color: black;
+ text-align: center;
+ border: none;
+}
+.startButton: hover{
+ background-color: red;
+ color: red;
+}
